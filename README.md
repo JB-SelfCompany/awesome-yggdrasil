@@ -42,6 +42,7 @@
 ## Tools
 
 - [Yggprom](https://github.com/yggdrasil-network/yggprom) - Prometheus exporter for Yggdrasil.
+- [peers_updater](https://github.com/ygguser/peers_updater) - Tool for checking the availability of peers and automatically updating them in the Yggdrasil configuration file.
 
 ## Routers and Firmware
 
