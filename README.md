@@ -43,6 +43,7 @@
 
 - [Yggprom](https://github.com/yggdrasil-network/yggprom) - Prometheus exporter for Yggdrasil.
 - [peers_updater](https://github.com/ygguser/peers_updater) - Tool for checking the availability of peers and automatically updating them in the Yggdrasil configuration file.
+- [Yggpick](https://git.shd.company/bubblegum/yggpick) - Daemon that keeps a Yggdrasil node on one active public peer plus a standby, ranking peers by latency and depth to the tree root.
 
 ## Routers and Firmware
 
