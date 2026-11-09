@@ -40,6 +40,7 @@
 - [Yggpeers](https://gitfield.org/fsky/yggpeers) - Yggdrasil public peers explorer.
 - [Yggvault](https://github.com/voluminor/yggvault) - Self-hosted release mirror for Go modules, Composer packages, archives, Web UI, and Yggdrasil-powered node sync.
 - [YggNmap](https://git.shd.company/bubblegum/Yggnmap) - Self-hosted web service that scans the visitor's own Yggdrasil address for open ports using nmap.
+- [Yggdrasil Website Mirror](https://github.com/ed-asriyan/yggdrasil-website-mirror) - Docker Compose setup that mirrors clearnet websites inside Yggdrasil.
 
 ## Tools
 
